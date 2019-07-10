@@ -6,4 +6,4 @@ I have no affiliation with Ryan Singer and I developed this Sketch Library after
 
 *Font Requirement*: Please note that this library uses Apple's SF Compant font which can be downloaded for free from [here](https://developer.apple.com/fonts/).
 
-![Sample of using the library](https://github.com/korygorsky/breadboarding-sketch-library/blob/a6076e4f8f4779855c86216afd8c9dfe759c3db4/Sample.png)
+![Sample of using the library](https://github.com/korygorsky/breadboarding-sketch-library/blob/0a2b4260a2a3aeec41f31e6429ac64add0e758ae/Sample.png)
